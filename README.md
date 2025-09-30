@@ -39,4 +39,3 @@
 <br><br>
 </p>
 
-[![@manjeetpathak9's Holopin board](https://holopin.me/manjeetpathak9)](https://holopin.io/@manjeetpathak9)
