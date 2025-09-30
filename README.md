@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb, GenAI and more.<br>
 - 💞️ I’m looking to collaborate on ...Web Dev Projects.<br>
 - 📫 How to reach me ...contact nitintak04@gmail.com<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IIITManjeet&label=Profile%20views&color=0e75b6&style=flat" alt="IIITManjeet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitintak13&label=Profile%20views&color=0e75b6&style=flat" alt="nitintak13" /> </p>
 <p align="center">
 <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
@@ -27,15 +27,15 @@
 <!-- <p align="center">
   <img src= "https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif">
 </p> -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIITManjeet&theme=nightowl" alt="IIITManjeet" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IIITManjeet&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="IIITManjeet" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></p><br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitintak13&theme=nightowl" alt="IIITManjeet" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitintak13&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="IIITManjeet" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nitintak13&count_private=true"/></p><br>
 
 ### ⚡ Github Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=IIITManjeet&theme=darkhub"><br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IIITManjeet&theme=solarized_dark"  display=block width=100% height=auto alt="1">
+<img src="https://github-profile-trophy.vercel.app/?username=nitintak13&theme=darkhub"><br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitintak13&theme=solarized_dark"  display=block width=100% height=auto alt="1">
 <br><br>
 </p>
 
